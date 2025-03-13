@@ -1,11 +1,48 @@
 ---
-title: Laboratório
-number-sections: true
+title: Laboratórios
+number-sections: false
 
 format:
   html:
-    toc: false
+    toc: true
 from: markdown+emoji
 ---
 
-# Em construção :construction:
+# Laboratórios Didáticos
+
+1. **Laboratório de Ensino e Pesquisa de Física**\
+Coordenador: André Nepomuceno
+
+2. **Laboratório de Ensino de Anatomia Humana**\
+Coordenador: Bruno Felix Patricio
+
+3. **Laboratório de Ensino Multidisciplinar**\
+Coordenadora: Cristiane Albuquerque de Carvalho
+
+4. **Laboratório de Ensino e Pesquisa de Estudos Avançados e Computação Científica (LEACC)**\
+Coordenador: Fábio Gonçalves\
+[Agenda](https://calendar.google.com/calendar/embed?src=id.uff.br_r17akmhdefvu8l52ujeqtf284o@group.calendar.google.com&ctz=America/Sao_Paulo&pli=1)\
+Para cadastrar novas atividades no LEACC, entre em contato com o coordenador do laboratório.
+
+5. **Laboratório de Ensino em Química Geral e Inorgânica**\
+Coordenadora: Vanessa End de Oliveira
+
+**Técnicos dos Laboratórios:**\
+Jonathan dos Reis Pacheco\
+Tailana Batista\
+Viviane Amorim\
+
+ 
+# Laboratórios de Pesquisa
+
+1. **Laboratório de Pesquisa em Histomorfometria Translacional**\
+Coordenador: Bruno Felix Patricio
+
+2. **Laboratório de Pesquisa de Biologia Molecular Aplicada à Doenças de Origem Genética**\
+Coordenadora: Etel Rodrigues Pereira Gimba
+
+3. **Laboratório de Pesquisa de Farmacologia e Toxicologia Clínica**\
+Coordenador: Luiz Henrique Amarante
+
+4. **Laboratório de Pesquisa em Psicofisiologia Cognitiva**\
+Coordenadores: Walter Machado Pinheiro e Isabela Mocaiber Freire

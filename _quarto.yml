@@ -35,7 +35,7 @@ format:
     toc: false
     lang: pt
     date-format: DD/MM/YYYY
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
 
 

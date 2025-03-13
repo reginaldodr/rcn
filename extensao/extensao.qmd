@@ -8,6 +8,21 @@ format:
 from: markdown+emoji
 ---
 
-# Em construção :construction:
+# Projetos de extensão desenvolvidos pelos professores do RCN.
+
+1.Física no Computador – utilizando python para entender o movimento
+André Nepomuceno e Fernando Saliby
+
+O projeto é desenvolvido com estudantes do ensino médio de escolas públicas e tem apoio da FAPERJ.
+
+2.Corrosão e Ambiente: um estudo comparativo
+Vanessa End de Oliveira
+
+3.Perímetro: o Mundo e a Matemática
+Rômulo Rios Rosa
+
+4.Microbiologia, Saúde e Ambiente: ferramentas e instrumentos para reestruturação curricular no ensino das ciências (Ensino Fundamental)
+Cristiane Albuquerque de Carvalho
+
 
 

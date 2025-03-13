@@ -8,4 +8,20 @@ format:
 from: markdown+emoji
 ---
 
-# Em construção :construction:
+# Quadro de Horários {-}
+
+
+# Monitoria {-}
+
+# Disciplinas {-}
+
+# Projetos de Ensino {-}
+
+1.Remodelando os Experimentos de Física Experimental I
+Fernando Saliby de Simoni
+
+2.Abordagem baseada na metodologia ativa Peer Instruction para reduzir índices de retenção em Cálculo I
+Ana Isabel de Azevedo Spinola Dias
+
+3.Desenvolvimento de notas de aula para a disciplina Introdução à Física Computacional
+Fernando Saliby de Simoni

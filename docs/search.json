@@ -18,7 +18,7 @@
     "href": "departamento/departamento.html",
     "title": "Departamento de Ciências da Natureza",
     "section": "",
-    "text": "Departamento de Ciências da Natureza\nChefe: Fábio Gonçalves\nSubchefe: André Asevedo\nSecretario: Anderson do Valle\nEmail: rcn.rhs@id.uff.br\nNumero de professores lotados no departamento: 21\nNumero de disciplinas oferecidas: 61"
+    "text": "Departamento de Ciências da Natureza\nChefe: Fábio Gonçalves\nSubchefe: André Asevedo Nepomuceno\nSecretario: Anderson do Valle\nEmail: rcn.rhs@id.uff.br\nNumero de professores lotados no departamento: 21\nNumero de disciplinas oferecidas: 61"
   },
   {
     "objectID": "professores/professores.html",
@@ -30,29 +30,29 @@
   {
     "objectID": "laboratorio/laboratorio.html",
     "href": "laboratorio/laboratorio.html",
-    "title": "Laboratório",
+    "title": "Laboratórios",
     "section": "",
-    "text": "1 Em construção 🚧"
+    "text": "Laboratórios Didáticos\n\nLaboratório de Ensino e Pesquisa de Física\nCoordenador: André Nepomuceno\nLaboratório de Ensino de Anatomia Humana\nCoordenador: Bruno Felix Patricio\nLaboratório de Ensino Multidisciplinar\nCoordenadora: Cristiane Albuquerque de Carvalho\nLaboratório de Ensino e Pesquisa de Estudos Avançados e Computação Científica (LEACC)\nCoordenador: Fábio Gonçalves\nAgenda\nPara cadastrar novas atividades no LEACC, entre em contato com o coordenador do laboratório.\nLaboratório de Ensino em Química Geral e Inorgânica\nCoordenadora: Vanessa End de Oliveira\n\nTécnicos dos Laboratórios:\nJonathan dos Reis Pacheco\nTailana Batista\nViviane Amorim\n\n\n\nLaboratórios de Pesquisa\n\nLaboratório de Pesquisa em Histomorfometria Translacional\nCoordenador: Bruno Felix Patricio\nLaboratório de Pesquisa de Biologia Molecular Aplicada à Doenças de Origem Genética\nCoordenadora: Etel Rodrigues Pereira Gimba\nLaboratório de Pesquisa de Farmacologia e Toxicologia Clínica\nCoordenador: Luiz Henrique Amarante\nLaboratório de Pesquisa em Psicofisiologia Cognitiva\nCoordenadores: Walter Machado Pinheiro e Isabela Mocaiber Freire"
   },
   {
     "objectID": "ensino/ensino.html",
     "href": "ensino/ensino.html",
     "title": "Ensino",
     "section": "",
-    "text": "1 Em construção 🚧"
+    "text": "Quadro de Horários\n\n\nMonitoria\n\n\nDisciplinas\n\n\nProjetos de Ensino\n1.Remodelando os Experimentos de Física Experimental I Fernando Saliby de Simoni\n2.Abordagem baseada na metodologia ativa Peer Instruction para reduzir índices de retenção em Cálculo I Ana Isabel de Azevedo Spinola Dias\n3.Desenvolvimento de notas de aula para a disciplina Introdução à Física Computacional Fernando Saliby de Simoni"
   },
   {
     "objectID": "pesquisa/pesquisa.html",
     "href": "pesquisa/pesquisa.html",
     "title": "Pesquisa",
     "section": "",
-    "text": "1 Em construção 🚧"
+    "text": "#Projetos de pesquisa desenvolvidos pelos professores do RCN\n1.Astrofísica e Física Além do Modelo Padrão com Simulações Computacionais\nAndré Nepomuceno\n2.Métodos de Recorrência aplicados a sistemas de muitas partículas\nCarlos Magno da Silva Conceição\n3.Correlação Corrosão e Ambiente\nVanessa End de Oliveira\n4.Problemas Inversos Aplicados a Determinação de Parâmetros das Equações que Modelam a Infiltração de Água no Solo\nFábio Freitas Ferreira\n5.O Teste Stroop-Pareado como Protocolo para abordar diferentes componentes das funções executivas\nWalter Machado Pinheiro\n\nEstudo sobre a convergência de famílias de problemas de controle para EDPs degeneradas.\nReginaldo Demarque da Rocha"
   },
   {
     "objectID": "extensao/extensao.html",
     "href": "extensao/extensao.html",
     "title": "Extensão",
     "section": "",
-    "text": "1 Em construção 🚧"
+    "text": "1 Projetos de extensão desenvolvidos pelos professores do RCN.\n1.Física no Computador – utilizando python para entender o movimento André Nepomuceno e Fernando Saliby\nO projeto é desenvolvido com estudantes do ensino médio de escolas públicas e tem apoio da FAPERJ.\n2.Corrosão e Ambiente: um estudo comparativo Vanessa End de Oliveira\n3.Perímetro: o Mundo e a Matemática Rômulo Rios Rosa\n4.Microbiologia, Saúde e Ambiente: ferramentas e instrumentos para reestruturação curricular no ensino das ciências (Ensino Fundamental) Cristiane Albuquerque de Carvalho"
   }
 ]
