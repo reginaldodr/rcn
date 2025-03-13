@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Departamento de Ciências da Natureza",
+    "title": "Departamento de Ciências da Natureza – RCN",
     "section": "",
-    "text": "Instituto de Humanidade e Saúde – RHS\nUnivseridade Federal Fluminense\nCampus de Rio das Ostras"
+    "text": "Univseridade Federal Fluminense\nInstituto de Humanidade e Saúde – RHS\nCampus de Rio das Ostras"
   },
   {
     "objectID": "departamento/departamento.html",
@@ -26,5 +26,33 @@
     "title": "Professores",
     "section": "",
     "text": "Professores\n\nAna Isabel de A. Spinola Dias\nAndré Asevedo Nepomuceno\nAntonio Espósito Junior\nBruno Felix Patrício\nCarlos Magno S. da Conceição\nCristiane A. de Carvalho\nEduardo Ochs\nEtel Rodrigues Pereira Gimba\nFábio Freitas Ferreira\nFábio Gonçalves\nFernando Náufel do Amaral\nFernando Saliby de Simoni\nFlávia de Bittencourt Brasil\nIzabela Mocaiber Freire\nLuiz Henrique Amarante\nReginaldo Demarque da Rocha\nRobson Brito Rodrigues\nRomulo Rios Rosa\nSofiane Faci\nVanessa End de Oliveira\nWalter Machado Pinheiro"
+  },
+  {
+    "objectID": "laboratorio/laboratorio.html",
+    "href": "laboratorio/laboratorio.html",
+    "title": "Laboratório",
+    "section": "",
+    "text": "1 Em construção 🚧"
+  },
+  {
+    "objectID": "ensino/ensino.html",
+    "href": "ensino/ensino.html",
+    "title": "Ensino",
+    "section": "",
+    "text": "1 Em construção 🚧"
+  },
+  {
+    "objectID": "pesquisa/pesquisa.html",
+    "href": "pesquisa/pesquisa.html",
+    "title": "Pesquisa",
+    "section": "",
+    "text": "1 Em construção 🚧"
+  },
+  {
+    "objectID": "extensao/extensao.html",
+    "href": "extensao/extensao.html",
+    "title": "Extensão",
+    "section": "",
+    "text": "1 Em construção 🚧"
   }
 ]

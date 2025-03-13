@@ -4,7 +4,7 @@ project:
   
 
 website:
-  title: "RCN"
+  title: " "
   navbar:
     background: primary
     left:
@@ -14,13 +14,13 @@ website:
         text: Departamento
       - href: professores/professores.qmd
         text: Professores
-      - href: ensino.qmd
+      - href: ensino/ensino.qmd
         text: Ensino
-      - href: pesquisa.qmd
+      - href: pesquisa/pesquisa.qmd
         text: Pesquisa
-      - href: extensao.qmd
+      - href: extensao/extensao.qmd
         text: Extensão
-      - href: laboratorio.qmd
+      - href: laboratorio/laboratorio.qmd
         text: Laboratório
       
    
