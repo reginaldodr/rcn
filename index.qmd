@@ -1,0 +1,17 @@
+---
+title: "Departamento de Ciências da Natureza"
+about:
+  template: marquee
+  image: uff-ihs.jpg
+  image-shape: rectangle
+  links:
+    - icon: envelope-at
+      text: email
+      href: mailto:rcn.rhs@id.uff.br
+---
+
+[Instituto de Humanidade e Saúde -- RHS](https://ihs.uff.br/)\
+[Univseridade Federal Fluminense](http://www.uff.br) \
+Campus de Rio das Ostras
+
+

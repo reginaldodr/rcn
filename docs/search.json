@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Departamento de Ciências da Natureza",
+    "section": "",
+    "text": "Instituto de Humanidade e Saúde – RHS\nUnivseridade Federal Fluminense\nCampus de Rio das Ostras"
+  },
+  {
+    "objectID": "departamento/departamento.html",
+    "href": "departamento/departamento.html",
+    "title": "Departamento de Ciências da Natureza",
+    "section": "",
+    "text": "Departamento de Ciências da Natureza\nChefe: Fábio Gonçalves\nSubchefe: André Asevedo\nSecretario: Anderson do Valle\nEmail: rcn.rhs@id.uff.br\nNumero de professores lotados no departamento: 21\nNumero de disciplinas oferecidas: 61"
+  },
+  {
+    "objectID": "professores/professores.html",
+    "href": "professores/professores.html",
+    "title": "Professores",
+    "section": "",
+    "text": "Professores\n\nAna Isabel de A. Spinola Dias\nAndré Asevedo Nepomuceno\nAntonio Espósito Junior\nBruno Felix Patrício\nCarlos Magno S. da Conceição\nCristiane A. de Carvalho\nEduardo Ochs\nEtel Rodrigues Pereira Gimba\nFábio Freitas Ferreira\nFábio Gonçalves\nFernando Náufel do Amaral\nFernando Saliby de Simoni\nFlávia de Bittencourt Brasil\nIzabela Mocaiber Freire\nLuiz Henrique Amarante\nReginaldo Demarque da Rocha\nRobson Brito Rodrigues\nRomulo Rios Rosa\nSofiane Faci\nVanessa End de Oliveira\nWalter Machado Pinheiro"
+  }
+]

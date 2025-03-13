@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+  
+
+website:
+  title: "RCN"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Início
+      - href: departamento/departamento.qmd
+        text: Departamento
+      - href: professores/professores.qmd
+        text: Professores
+      - href: ensino.qmd
+        text: Ensino
+      - href: pesquisa.qmd
+        text: Pesquisa
+      - href: extensao.qmd
+        text: Extensão
+      - href: laboratorio.qmd
+        text: Laboratório
+      
+   
+        
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: false
+    lang: pt
+    date-format: DD/MM/YYYY
+    link-external-icon: true
+    link-external-newwindow: true
+
+
+editor: source
