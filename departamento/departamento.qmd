@@ -1,3 +1,13 @@
+---
+title: " "
+number-sections: false
+
+format:
+  html:
+    toc: false
+from: markdown+emoji
+---
+
 # Departamento de Ciências da Natureza
 
 **Chefe:** Fábio Gonçalves

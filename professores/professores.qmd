@@ -1,43 +1,210 @@
-# Professores
+---
+title: "Professores lotados no RCN" 
+number-sections: false
 
-- [Ana Isabel de A. Spinola Dias](http://lattes.cnpq.br/2417066811125103)
+format:
+  html:
+    toc: false
+from: markdown+emoji
+---
 
-- [André Asevedo Nepomuceno](https://www.professores.uff.br/andrenepomuceno/)
+# Biomédica
 
-- Antonio Espósito Junior
+:::: {.columns}
 
-- Bruno Felix Patrício
+::: {.column width="40%"}
 
-- Carlos Magno S. da Conceição
+::: {.callout-note appearance="simple"icon=false collapse="true"}
+# Bruno Felix Patrício
 
-- Cristiane A. de Carvalho
+- [lattes](http://lattes.cnpq.br/5572087552292128)
+:::
 
-- Eduardo Ochs
+::: {.callout-note appearance="simple"icon=false collapse="true"}
+# Cristiane A. de Carvalho
 
-- Etel Rodrigues Pereira Gimba
+- [lattes](http://lattes.cnpq.br/6256810172436670)
+:::
 
-- Fábio Freitas Ferreira
+::: {.callout-note appearance="simple"icon=false collapse="true"}
+# Etel Rodrigues Pereira Gimba
 
-- Fábio Gonçalves
+- [lattes](http://lattes.cnpq.br/8976892755529994)
+:::
 
-- Fernando Náufel do Amaral
+::: {.callout-note appearance="simple"icon=false collapse="true"}
+# Flávia de Bittencourt Brasil
 
-- Fernando Saliby de Simoni
+- [lattes](http://lattes.cnpq.br/1820655305157763)
+:::
 
-- Flávia de Bittencourt Brasil
+:::
 
-- Izabela Mocaiber Freire
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
 
-- Luiz Henrique Amarante
+::: {.column width="40%"}
 
-- [Reginaldo Demarque da Rocha](http://demarque.mat.br)
 
-- Robson Brito Rodrigues
+::: {.callout-note appearance="simple"icon=false collapse="true"}
+# Izabela Mocaiber Freire
 
-- Romulo Rios Rosa
+- [lattes](http://lattes.cnpq.br/1201104559402620)
+:::
 
-- Sofiane Faci
 
-- Vanessa End de Oliveira
+::: {.callout-note appearance="simple"icon=false collapse="true"}
+# Lara Carolina Mario
 
-- Walter Machado Pinheiro
+- [lattes]( http://lattes.cnpq.br/6924188058881277)
+:::
+
+::: {.callout-note appearance="simple"icon=false collapse="true"}
+# Luiz Henrique Amarante
+
+- [lattes](http://lattes.cnpq.br/6034005886298502)
+:::
+
+::: {.callout-note appearance="simple"icon=false collapse="true"}
+# Walter Machado Pinheiro
+
+- [lattes](http://lattes.cnpq.br/7707458467453375)
+
+:::
+
+:::
+
+::::
+
+
+# Física
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+::: {.callout-important appearance="simple"icon=false collapse="true"}
+# André Asevedo Nepomuceno
+
+- [Página](https://www.professores.uff.br/andrenepomuceno/)
+:::
+
+::: {.callout-important appearance="simple"icon=false collapse="true"}
+# Carlos Magno S. da Conceição
+
+- Sala 104 -- IHS (prédio alugado)
+- [lattes](http://lattes.cnpq.br/7375489514717107)
+:::
+
+::: {.callout-important appearance="simple"icon=false collapse="true"}
+#  Fernando Saliby de Simoni
+- [lattes](http://lattes.cnpq.br/5246728130282183)
+:::
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="40%"}
+
+::: {.callout-important appearance="simple"icon=false collapse="true"}
+# Robson Brito Rodrigues
+- Sala 104 -- IHS (prédio alugado)
+- [lattes](http://lattes.cnpq.br/1414929315793567)
+
+:::
+
+::: {.callout-important appearance="simple"icon=false collapse="true"}
+# Sofiane Faci
+- Sala 104 -- IHS (prédio alugado)
+- [lattes](http://lattes.cnpq.br/7610748283831910)
+
+:::
+
+:::
+
+::::
+
+# Matemática
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+
+::: {.callout-tip appearance="simple"icon=false collapse="true"}
+# Ana Isabel de A. Spinola Dias
+
+- Sala 104 -- IHS (prédio alugado)
+- [lattes](http://lattes.cnpq.br/2417066811125103)
+:::
+
+::: {.callout-tip appearance="simple"icon=false collapse="true"}
+# Antonio Espósito Junior
+
+- [lattes](http://lattes.cnpq.br/7411232749346212)
+:::
+
+
+::: {.callout-tip appearance="simple"icon=false collapse="true"}
+# Eduardo Ochs
+
+- [Página](http://angg.twu.net/)
+:::
+
+::: {.callout-tip appearance="simple"icon=false collapse="true"}
+# Fábio Freitas Ferreira
+
+- [lattes](http://lattes.cnpq.br/8670994369210141)
+:::
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="40%"}
+
+::: {.callout-tip appearance="simple"icon=false collapse="true"}
+# Fábio Gonçalves
+
+- [lattes]( http://lattes.cnpq.br/1146961135029213)
+:::
+
+::: {.callout-tip appearance="simple"icon=false collapse="true"}
+# Fernando Náufel do Amaral
+
+- [Página](https://fnaufel.github.io/)
+:::
+
+::: {.callout-tip appearance="simple"icon=false collapse="true"}
+# Reginaldo Demarque da Rocha
+- Sala 104 -- IHS (prédio alugado)
+- [Página](http://demarque.mat.br)
+- [email](mailto: reginaldo.demarque@posteo.com.br)
+
+:::
+
+
+::: {.callout-tip appearance="simple"icon=false collapse="true"}
+# Romulo Rios Rosa
+- Sala 104 -- IHS (prédio alugado)
+- [lattes]( http://lattes.cnpq.br/1942117557710833)
+
+:::
+
+:::
+
+::::
+
+# Química
+
+::: {.callout-warning appearance="simple"icon=false collapse="true"}
+# Vanessa End de Oliveira
+- [lattes](http://lattes.cnpq.br/6024502982648277)
+
+:::

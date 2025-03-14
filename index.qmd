@@ -14,4 +14,22 @@ about:
 [Instituto de Humanidade e Saúde -- RHS](https://ihs.uff.br/)\
 Campus de Rio das Ostras
 
+O Departamento de Ciências da Natureza (RCN) foi criado em 13/10/2014 pela [Decisão nº 45 do CUV, publicada no BS nº 154 de 13/10/2014](http://www.noticias.uff.br/bs/2014/10/154-2014.pdf#page=65). Ele é um  dos departamento de ensino do Instituto de Humanidades e Saúde, composto por [professores](professores/professores.qmd) das áreas básicas de Biomedicina, Matemática, Física e Química, que atendem os cursos de Ciências da Computação, Enfermagem, Engenharia de Produção e Psicologia.
+
+---
+
+**Chefe:** Fábio Gonçalves
+
+**Subchefe:** André Asevedo Nepomuceno
+
+**Secretario:** Anderson do Valle
+
+Email: [rcn.rhs@id.uff.br](mailto:rcn.rhs@id.uff.br)
+
+Numero de professores lotados no departamento: 22
+
+Numero de disciplinas oferecidas: 61
+
+
+
 

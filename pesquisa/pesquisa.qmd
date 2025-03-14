@@ -1,32 +1,32 @@
 ---
 title: Pesquisa
-number-sections: true
+number-sections: false
 
 format:
   html:
     toc: false
 from: markdown+emoji
 ---
+ 
+# Projetos de pesquisa desenvolvidos pelos professores do RCN
 
-#Projetos de pesquisa desenvolvidos pelos professores do RCN
 
-
-1.Astrofísica e Física Além do Modelo Padrão com Simulações Computacionais\
+1. Astrofísica e Física Além do Modelo Padrão com Simulações Computacionais\
 André Nepomuceno
 
-2.Métodos de Recorrência aplicados a sistemas de muitas partículas\
+2. Métodos de Recorrência aplicados a sistemas de muitas partículas\
 Carlos Magno da Silva Conceição
 
-3.Correlação Corrosão e Ambiente\
+3. Correlação Corrosão e Ambiente\
 Vanessa End de Oliveira
 
-4.Problemas Inversos Aplicados a Determinação de Parâmetros das Equações que Modelam a Infiltração de Água no Solo\
+4. Problemas Inversos Aplicados a Determinação de Parâmetros das Equações que Modelam a Infiltração de Água no Solo\
 Fábio Freitas Ferreira
 
-5.O Teste Stroop-Pareado como Protocolo para abordar diferentes componentes das funções executivas\
+5. O Teste Stroop-Pareado como Protocolo para abordar diferentes componentes das funções executivas\
 Walter Machado Pinheiro
 
-6.  Estudo sobre a convergência de famílias de problemas de controle para
+6. Estudo sobre a convergência de famílias de problemas de controle para
 EDPs degeneradas.\
 Reginaldo Demarque da Rocha
 

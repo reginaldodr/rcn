@@ -4,14 +4,12 @@ project:
   
 
 website:
-  title: " "
+  title: "RCN"
   navbar:
     background: primary
     left:
       - href: index.qmd
         text: Início
-      - href: departamento/departamento.qmd
-        text: Departamento
       - href: professores/professores.qmd
         text: Professores
       - href: ensino/ensino.qmd
@@ -22,6 +20,8 @@ website:
         text: Extensão
       - href: laboratorio/laboratorio.qmd
         text: Laboratório
+      - text: contato
+        href: mailto:rcn.rhs@id.uff.br
       
    
         
