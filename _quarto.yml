@@ -28,8 +28,8 @@ website:
 
 format:
   html:
-    theme:
-      light: cosmo
+    theme: 
+      light: Spacelab
       dark: darkly
     css: styles.css
     toc: false
