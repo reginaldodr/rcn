@@ -11,8 +11,6 @@ from: markdown+emoji
 
 # Biomédica
 
-::: {.column width="33%"}
-
 ::: {.callout-note appearance="simple"icon=false collapse="true"}
 # Bruno Felix Patrício
 
@@ -63,12 +61,10 @@ from: markdown+emoji
 
 :::
 
-:::
+---
 
 # Física
 
-
-::: {.column width="33%"}
 
 ::: {.callout-important appearance="simple"icon=false collapse="true"}
 # André Asevedo Nepomuceno
@@ -102,15 +98,10 @@ from: markdown+emoji
 
 :::
 
-:::
-
-
+---
 
 # Matemática
 
-
-
-::: {.column width="33%"}
 
 ::: {.callout-tip appearance="simple"icon=false collapse="true"}
 # Ana Isabel de A. Spinola Dias
@@ -166,7 +157,7 @@ from: markdown+emoji
 
 :::
 
-::::
+---
 
 # Química
 
