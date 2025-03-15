@@ -1,13 +1,17 @@
 ---
-title: "Departamento de Ciências da Natureza -- RCN"
 about:
   template: marquee
-  image: uff-ihs.jpg
   image-shape: rectangle
   links:
     - icon: envelope-at
       text: email
       href: mailto:rcn.rhs@id.uff.br
+---
+
+
+
+![](brasao-nome.png)
+
 ---
 
 [Univseridade Federal Fluminense](http://www.uff.br) \

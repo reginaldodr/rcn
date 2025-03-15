@@ -6,6 +6,8 @@ project:
 website:
   title: "RCN"
   navbar:
+    logo: brasao.png
+    logo-style: "height: 100px; width: auto;"
     background: primary
     left:
       - href: index.qmd
@@ -22,9 +24,6 @@ website:
         text: Laboratório
       - text: contato
         href: mailto:rcn.rhs@id.uff.br
-      
-   
-        
 
 format:
   html:
