@@ -4,7 +4,6 @@ number-sections: false
 
 format:
   html:
-    css: styles.css
     toc: false
 from: markdown+emoji
 ---
@@ -161,12 +160,9 @@ from: markdown+emoji
 
 # Química
 
-::: {.column width="30%"}
-
 ::: {.callout-warning appearance="simple"icon=false collapse="true"}
 # Vanessa End de Oliveira
 - [lattes](http://lattes.cnpq.br/6024502982648277)
 
 :::
 
-:::
