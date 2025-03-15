@@ -11,6 +11,8 @@ from: markdown+emoji
 
 # Biomédica
 
+:::: {.columns}
+
 ::: {.column width="33%"}
 
 ::: {.callout-note appearance="simple"icon=false collapse="true"}
@@ -36,6 +38,15 @@ from: markdown+emoji
 
 - [lattes](http://lattes.cnpq.br/1820655305157763)
 :::
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="33%"}
+
 
 ::: {.callout-note appearance="simple"icon=false collapse="true"}
 # Izabela Mocaiber Freire
@@ -65,8 +76,12 @@ from: markdown+emoji
 
 :::
 
+::::
+
+
 # Física
 
+:::: {.columns}
 
 ::: {.column width="33%"}
 
@@ -88,6 +103,14 @@ from: markdown+emoji
 - [lattes](http://lattes.cnpq.br/5246728130282183)
 :::
 
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="33%"}
+
 ::: {.callout-important appearance="simple"icon=false collapse="true"}
 # Robson Brito Rodrigues
 - Sala 104 -- IHS (prédio alugado)
@@ -104,13 +127,14 @@ from: markdown+emoji
 
 :::
 
-
+::::
 
 # Matemática
 
-
+:::: {.columns}
 
 ::: {.column width="33%"}
+
 
 ::: {.callout-tip appearance="simple"icon=false collapse="true"}
 # Ana Isabel de A. Spinola Dias
@@ -138,6 +162,14 @@ from: markdown+emoji
 - [lattes](http://lattes.cnpq.br/8670994369210141)
 :::
 
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="33%"}
+
 ::: {.callout-tip appearance="simple"icon=false collapse="true"}
 # Fábio Gonçalves
 
@@ -163,6 +195,8 @@ from: markdown+emoji
 # Romulo Rios Rosa
 - Sala 104 -- IHS (prédio alugado)
 - [lattes]( http://lattes.cnpq.br/1942117557710833)
+
+:::
 
 :::
 
