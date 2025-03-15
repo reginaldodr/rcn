@@ -4,6 +4,7 @@ number-sections: false
 
 format:
   html:
+    css: styles.css
     toc: false
 from: markdown+emoji
 ---
@@ -12,7 +13,7 @@ from: markdown+emoji
 
 :::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="33%"}
 
 ::: {.callout-note appearance="simple"icon=false collapse="true"}
 # Bruno Felix Patrício
@@ -44,7 +45,7 @@ from: markdown+emoji
 <!-- empty column to create gap -->
 :::
 
-::: {.column width="40%"}
+::: {.column width="33%"}
 
 
 ::: {.callout-note appearance="simple"icon=false collapse="true"}
@@ -82,7 +83,7 @@ from: markdown+emoji
 
 :::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="33%"}
 
 ::: {.callout-important appearance="simple"icon=false collapse="true"}
 # André Asevedo Nepomuceno
@@ -108,7 +109,7 @@ from: markdown+emoji
 <!-- empty column to create gap -->
 :::
 
-::: {.column width="40%"}
+::: {.column width="33%"}
 
 ::: {.callout-important appearance="simple"icon=false collapse="true"}
 # Robson Brito Rodrigues
@@ -132,7 +133,7 @@ from: markdown+emoji
 
 :::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="33%"}
 
 
 ::: {.callout-tip appearance="simple"icon=false collapse="true"}
@@ -167,7 +168,7 @@ from: markdown+emoji
 <!-- empty column to create gap -->
 :::
 
-::: {.column width="40%"}
+::: {.column width="33%"}
 
 ::: {.callout-tip appearance="simple"icon=false collapse="true"}
 # Fábio Gonçalves
@@ -203,8 +204,12 @@ from: markdown+emoji
 
 # Química
 
+::: {.column width="30%"}
+
 ::: {.callout-warning appearance="simple"icon=false collapse="true"}
 # Vanessa End de Oliveira
 - [lattes](http://lattes.cnpq.br/6024502982648277)
+
+:::
 
 :::

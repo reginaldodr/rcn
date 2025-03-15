@@ -1,0 +1,25 @@
+/* Default styles for larger screens */
+.columns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    flex: 1;
+}
+
+/* Styles for smartphones */
+@media only screen and (max-width: 600px) {
+    .columns {
+        display: block; /* Stack columns vertically */
+    }
+
+    .column {
+        width: 100%; /* Full width for each column */
+        margin-bottom: 20px; /* Add spacing between stacked columns */
+    }
+
+    .column + .column {
+        margin-left: 0; /* Remove gap between columns */
+    }
+}
