@@ -1,6 +1,6 @@
 ---
 title: Ensino
-number-sections: true
+number-sections: false
 
 format:
   html:
@@ -8,14 +8,12 @@ format:
 from: markdown+emoji
 ---
 
-# Quadro de Horários {-}
+# Monitoria 
 
+# Disciplinas 
 
-# Monitoria {-}
-
-# Disciplinas {-}
-
-# Projetos de Ensino {-}
+---
+# Projetos de Ensino 
 
 1.Remodelando os Experimentos de Física Experimental I
 Fernando Saliby de Simoni

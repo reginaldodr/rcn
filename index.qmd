@@ -10,13 +10,19 @@ about:
 
 
 
-![](brasao-nome.png)
+![](brasao-nome.png){fig-align="center" width=70%}
 
 ---
 
-[Univseridade Federal Fluminense](http://www.uff.br) \
+<p style="text-align: center;"> 
+[Universidade Federal Fluminense](http://www.uff.br) \
 [Instituto de Humanidade e Saúde -- RHS](https://ihs.uff.br/)\
 Campus de Rio das Ostras
+ </p>
+
+
+
+![](uff-ihs.jpg){fig-align="center" width=70%}
 
 O Departamento de Ciências da Natureza (RCN) foi criado em 13/10/2014 pela [Decisão nº 45 do CUV, publicada no BS nº 154 de 13/10/2014](http://www.noticias.uff.br/bs/2014/10/154-2014.pdf#page=65). Ele é um  dos departamento de ensino do Instituto de Humanidades e Saúde, composto por [professores](professores/professores.qmd) das áreas básicas de Biomedicina, Matemática, Física e Química, que atendem os cursos de Ciências da Computação, Enfermagem, Engenharia de Produção e Psicologia.
 
