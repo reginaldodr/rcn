@@ -5,9 +5,9 @@ project:
 
 website:
   title: "RCN"
+  favicon: brasao.png
   navbar:
     logo: brasao.png
-    logo-style: "height: 100px; width: auto;"
     background: primary
     left:
       - href: index.qmd
@@ -28,14 +28,13 @@ website:
 format:
   html:
     theme: 
-      light: Spacelab
+      light: Materia
       dark: darkly
-    css: styles.css
     toc: false
     lang: pt
     date-format: DD/MM/YYYY
     link-external-icon: false
     link-external-newwindow: true
 
-
+css: styles.css
 editor: source
